@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi 👋 I'm Pramod Kumar
 
-<!--
-**pramod190/pramod190** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Aspiring **AI Engineer** | 📊 **Data Analyst** | 🌐 **Full-Stack Developer** | 🎨 **UI/UX Enthusiast**
 
-Here are some ideas to get you started:
+I love building **intelligent, scalable, real-world products** that combine **AI, data, and clean user experiences**.  
+From designing ML pipelines to crafting dashboards and full-stack apps — I enjoy working across the stack.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎯 Current Focus:
+- Building **end-to-end AI systems** (ML → Backend → UI)
+- Advanced **Machine Learning & Deep Learning**
+- **Data Analytics & Visualization**
+- Scalable **SaaS & startup-ready products**
+
+📍 India | 💡 Always learning | 🤝 Open to collaboration
