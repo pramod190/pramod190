@@ -101,14 +101,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pramod190" />
-</p>
-
----
-
 ## 📈 Contribution Graph
 
 <p align="center">
