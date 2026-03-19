@@ -130,8 +130,8 @@
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="https://leetcode.com/u/pramod1902/">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" height="48" width="48" />
-</a>
+    <img src="https://img.icons8.com/fluency/48/leetcode.png"/>
+  </a>
   <a href="https://pramod1902.github.io/repo/">
     <img src="https://img.icons8.com/fluency/48/domain.png" />
   </a>
