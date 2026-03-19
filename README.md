@@ -121,7 +121,7 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github.com/pramod190/pramod190/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg?user=pramod190" />
 </p>
 
 ---
