@@ -34,43 +34,49 @@
 ## 🌟 Featured Projects
 
 ### 🏥 Medicine Availability & Pharmacy Finder
-🚀 **Full Stack Healthcare Platform**
-- Real-time medicine search & pharmacy discovery  
-- ⚡ WebSockets for low latency updates  
-- 🔍 MongoDB aggregation + fuzzy search  
-- 📊 Recommendation system + analytics dashboard  
+🚀 Full Stack Healthcare Platform  
+🔹 Real-time medicine search & pharmacy discovery  
+🔹 WebSockets for low latency updates  
+🔹 MongoDB aggregation + fuzzy search  
+🔹 Recommendation system + analytics dashboard  
+
+🔗 https://github.com/pramod190/YOUR_REPO_LINK
 
 ---
 
 ### 📄 AI Resume Analyzer
-🤖 **ATS Optimization System**
-- NLP + BERT-based resume analysis  
-- Semantic similarity (TF-IDF + Transformers)  
-- Improved keyword matching & scoring  
+🤖 ATS Optimization System  
+🔹 NLP + BERT-based resume analysis  
+🔹 Semantic similarity (TF-IDF + Transformers)  
+🔹 Improved keyword matching  
+
+🔗 https://github.com/pramod190/[YOUR_REPO_LINK](https://github.com/pramod190/AI_RESUME_ANALYZER)
 
 ---
 
 ### 🧠 AI Missing Person Identification System
-👁️ **Computer Vision System**
-- Face recognition using CNN + FaceNet  
-- Real-time identification system  
-- Deployed on cloud (Render)  
+👁️ Computer Vision System  
+🔹 Face recognition using CNN + FaceNet  
+🔹 Real-time identification  
+🔹 Cloud deployed  
+
+🔗 https://github.com/pramod190/https://github.com/pramod190/FINDING_MISSING_PERSON_USI
 
 ---
 
 ## 💼 Experience
 
 ### 🏦 BharathPe — Data Analyst Intern
-- Built data pipelines using **Pandas & NumPy**
-- Improved efficiency by **25%**
-- Developed **Power BI dashboards**
+- Built data pipelines using Pandas & NumPy  
+- Improved efficiency by 25%  
+- Developed Power BI dashboards  
 
 ---
 
 ### 🌐 Codsoft — Web Developer Intern
-- Built **3 responsive web apps**
-- Improved UI using **Tailwind, Flexbox**
-- Reduced bounce rate by **30%**
+- Built 3 responsive web apps  
+- Improved UI using Tailwind, Flexbox  
+- Reduced bounce rate by 30%  
 
 ---
 
@@ -79,13 +85,6 @@
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/pramod1902" />
 </p>
-
-- ✅ 250+ Problems Solved  
-- 💡 Strong in:
-  - Arrays, Strings, Hashing  
-  - Trees, Linked Lists  
-  - Two Pointers  
-  - Dynamic Programming  
 
 ---
 
@@ -121,7 +120,7 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg?user=pramod190" />
+  <img src="https://github.com/pramod190/pramod190/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
@@ -129,10 +128,18 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="mailto:pramodanem.pa2004@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-  <a href="https://github.com/pramod190"><img src="https://skillicons.dev/icons?i=github" /></a>
-  <a href="https://linkedin.com/in/anem-pramod-352082290"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="https://pramod1902.github.io/repo/"><img src="https://skillicons.dev/icons?i=react" /></a>
+  <a href="mailto:pramodanem.pa2004@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+  <a href="https://github.com/pramod190">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+  <a href="https://linkedin.com/in/anem-pramod-352082290">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="[YOUR_PORTFOLIO_LINK](https://pramod1902.github.io/repo/)">
+    <img src="https://img.icons8.com/fluency/48/domain.png" />
+  </a>
 </p>
 
 ---
@@ -142,4 +149,4 @@
 
 ---
 
-⭐ **"Code. Learn. Build. Repeat."**
+⭐ Code. Learn. Build. Repeat.
