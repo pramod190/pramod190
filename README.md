@@ -40,7 +40,7 @@
 🔹 MongoDB aggregation + fuzzy search  
 🔹 Recommendation system + analytics dashboard  
 
-🔗 https://github.com/pramod190/https://github.com/pramod190/Medicine-Availability-Pharmacy-Finder
+🔗 https://github.com/pramod190/Medicine-Availability-Pharmacy-Finder
 
 ---
 
@@ -50,7 +50,7 @@
 🔹 Semantic similarity (TF-IDF + Transformers)  
 🔹 Improved keyword matching  
 
-🔗 https://github.com/pramod190/https://github.com/pramod190/AI_RESUME_ANALYZER
+🔗 https://github.com/pramod190/AI_RESUME_ANALYZER
 
 ---
 
@@ -60,7 +60,7 @@
 🔹 Real-time identification  
 🔹 Cloud deployed  
 
-🔗 https://github.com/pramod190/https://github.com/pramod190/FINDING_MISSING_PERSON_USI
+🔗 https://github.com/pramod190/FINDING_MISSING_PERSON_USI
 
 ---
 
