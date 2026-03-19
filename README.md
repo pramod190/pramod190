@@ -120,7 +120,7 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github.com/pramod190/pramod190/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pramod190&theme=tokyo-night" />
 </p>
 
 ---
@@ -137,7 +137,7 @@
   <a href="https://linkedin.com/in/anem-pramod-352082290">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="[YOUR_PORTFOLIO_LINK](https://pramod1902.github.io/repo/)">
+  <a href="https://pramod1902.github.io/repo/">
     <img src="https://img.icons8.com/fluency/48/domain.png" />
   </a>
 </p>
