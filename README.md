@@ -77,7 +77,7 @@
 ## 🧩 Problem Solving
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME" />
+  <img src="https://leetcard.jacoblin.cool/pramod1902" />
 </p>
 
 - ✅ 250+ Problems Solved  
