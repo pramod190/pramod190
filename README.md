@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pramod Kumar</h1>
-<h3 align="center">🚀 Software Engineer | 🤖 AI/ML Developer | ⚙️ Backend Engineer | 🧠 DSA Enthusiast</h3>
+<h3 align="center">🚀 Web Developer | 🤖 AI/ML Developer | ⚙️ Frontend Developer | 🧠 DSA Enthusiast</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=4000&color=00C2FF&center=true&vCenter=true&width=750&lines=Software+Engineer+in+Progress;AI+%26+Machine+Learning+Developer;Backend+Developer+(Spring+Boot+%7C+Node.js);DSA+Problem+Solver+(250%2B+Problems);Building+Scalable+Systems" />
