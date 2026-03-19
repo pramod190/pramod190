@@ -130,7 +130,7 @@
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="https://leetcode.com/u/pramod1902/">
-    <img src="https://img.icons8.com/fluency/48/leetcode.png"/>
+    <img src="https://camo.githubusercontent.com/33e34cb8ae58a7fb4745fef99e38c66057826330a5d725c0117b094211601086/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f312f31392f4c656574436f64655f6c6f676f5f626c61636b2e706e67" width="32" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" style="max-width: 100%;">
   </a>
   <a href="https://pramod1902.github.io/repo/">
     <img src="https://img.icons8.com/fluency/48/domain.png" />
