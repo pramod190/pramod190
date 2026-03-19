@@ -120,7 +120,7 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github.com/pramod190/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pramod190&theme=tokyo-night" />
 </p>
 
 ---
