@@ -129,6 +129,9 @@
   <a href="https://linkedin.com/in/anem-pramod-352082290">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
+  <a href="https://leetcode.com/u/pramod1902/">
+    <img src="https://skillicons.dev/icons?i=leetcode" />
+  </a>
   <a href="https://pramod1902.github.io/repo/">
     <img src="https://img.icons8.com/fluency/48/domain.png" />
   </a>
