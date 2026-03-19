@@ -92,12 +92,12 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pramod190&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pramod190&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pramod190&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -105,7 +105,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=pramod190&theme=tokyonight&no-frame=true&margin-w=10" />
 </p>
 
 ---
@@ -113,7 +113,7 @@
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pramod190&theme=tokyo-night" />
 </p>
 
 ---
@@ -121,7 +121,7 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/pramod190/pramod190/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
@@ -130,9 +130,9 @@
 
 <p align="center">
   <a href="mailto:pramodanem.pa2004@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-  <a href="https://github.com/YOUR_USERNAME"><img src="https://skillicons.dev/icons?i=github" /></a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="YOUR_PORTFOLIO_LINK"><img src="https://skillicons.dev/icons?i=react" /></a>
+  <a href="https://github.com/pramod190"><img src="https://skillicons.dev/icons?i=github" /></a>
+  <a href="https://linkedin.com/in/anem-pramod-352082290"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://pramod1902.github.io/repo/"><img src="https://skillicons.dev/icons?i=react" /></a>
 </p>
 
 ---
