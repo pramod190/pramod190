@@ -1,25 +1,33 @@
 <h1 align="center">Hi 👋, I'm Pramod Kumar</h1>
-<h3 align="center">🚀 Software Engineer | 🤖 AI/ML Developer | ⚙️ Backend Engineer | 🧠 DSA Enthusiast</h3>
+<h3 align="center">🚀 Software Engineer | 🤖 AI/ML Developer | ⚙️ Backend Engineer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=4000&color=00C2FF&center=true&vCenter=true&width=750&lines=Software+Engineer+in+Progress;AI+%26+Machine+Learning+Developer;Backend+Developer+(Spring+Boot+%7C+Node.js);DSA+Problem+Solver+(250%2B+Problems);Building+Scalable+Systems" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
-  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=social" />
-  <img src="https://img.shields.io/github/stars/YOUR_USERNAME?affiliations=OWNER%2CCOLLABORATOR&style=social" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=00C2FF&center=true&vCenter=true&width=800&lines=Building+Scalable+Systems;AI+%2B+Backend+Developer;250%2B+DSA+Problems+Solved;Open+Source+Enthusiast" />
 </p>
 
 ---
 
 ## 🚀 About Me
-👋 I'm **Pramod Kumar**, an aspiring **Software Engineer** passionate about building scalable applications and solving real-world problems using **AI + Backend Systems**.
 
-- 🔭 Working on **AI + Full Stack Projects**
-- 🌱 Learning **System Design, Advanced DSA & Cloud**
-- 🧠 Solved **250+ DSA problems**
-- ⚡ Strong in **Backend Engineering & Optimization**
+<table>
+<tr>
+<td width="50%">
+
+- 👨‍💻 Software Engineer in progress  
+- 🧠 Solved **250+ DSA problems**  
+- ⚙️ Strong in **Backend (Spring Boot, Node.js)**  
+- 🤖 Building **AI-powered systems**  
+- ☁️ Exploring **AWS & System Design**  
+
+</td>
+
+<td width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -33,87 +41,78 @@
 
 ## 🌟 Featured Projects
 
-### 🏥 Medicine Availability & Pharmacy Finder
-🚀 **Full Stack Healthcare Platform**
-- Real-time medicine search & pharmacy discovery  
-- ⚡ WebSockets for low latency updates  
-- 🔍 MongoDB aggregation + fuzzy search  
-- 📊 Recommendation system + analytics dashboard  
+### 🏥 Medicine Finder
+<p>
+🔹 Full Stack Healthcare Platform  
+🔹 Real-time updates using WebSockets  
+🔹 MongoDB optimized search + analytics  
 
----
-
-### 📄 AI Resume Analyzer
-🤖 **ATS Optimization System**
-- NLP + BERT-based resume analysis  
-- Semantic similarity (TF-IDF + Transformers)  
-- Improved keyword matching & scoring  
-
----
-
-### 🧠 AI Missing Person Identification System
-👁️ **Computer Vision System**
-- Face recognition using CNN + FaceNet  
-- Real-time identification system  
-- Deployed on cloud (Render)  
-
----
-
-## 💼 Experience
-
-### 🏦 BharathPe — Data Analyst Intern
-- Built data pipelines using **Pandas & NumPy**
-- Improved efficiency by **25%**
-- Developed **Power BI dashboards**
-
----
-
-### 🌐 Codsoft — Web Developer Intern
-- Built **3 responsive web apps**
-- Improved UI using **Tailwind, Flexbox**
-- Reduced bounce rate by **30%**
-
----
-
-## 🧩 Problem Solving
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME" />
+🔗 https://github.com/YOUR_USERNAME/medicine-finder
 </p>
 
-- ✅ 250+ Problems Solved  
-- 💡 Strong in:
-  - Arrays, Strings, Hashing  
-  - Trees, Linked Lists  
-  - Two Pointers  
-  - Dynamic Programming  
+---
+
+### 🤖 AI Resume Analyzer
+<p>
+🔹 NLP + BERT based system  
+🔹 ATS score optimization  
+🔹 Semantic similarity engine  
+
+🔗 https://github.com/YOUR_USERNAME/ai-resume-analyzer
+</p>
 
 ---
 
-## 📊 GitHub Analytics
+### 🧠 Missing Person AI
+<p>
+🔹 Face recognition using CNN + FaceNet  
+🔹 Real-time identification  
+🔹 Cloud deployed system  
+
+🔗 https://github.com/YOUR_USERNAME/missing-person-ai
+</p>
+
+---
+
+## 📊 GitHub Dashboard
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ---
 
-## 📈 Contribution Graph
+## 📈 Activity Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night" />
+</p>
+
+---
+
+## ⚡ LeetCode Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="mailto:pramodanem.pa2004@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="https://github.com/YOUR_USERNAME"><img src="https://skillicons.dev/icons?i=github" /></a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
 </p>
 
 ---
@@ -126,20 +125,10 @@
 
 ---
 
-## 🌐 Connect With Me
+## 💬 Quote
 
-<p align="center">
-  <a href="mailto:pramodanem.pa2004@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-  <a href="https://github.com/YOUR_USERNAME"><img src="https://skillicons.dev/icons?i=github" /></a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="YOUR_PORTFOLIO_LINK"><img src="https://skillicons.dev/icons?i=react" /></a>
-</p>
+> "First, solve the problem. Then, write the code." – John Johnson
 
 ---
 
-## 💬 Fun Fact
-☕ I debug faster with coffee… but sometimes forget what I was debugging 😆
-
----
-
-⭐ **"Code. Learn. Build. Repeat."**
+⭐ If you like my work, consider starring my repositories!
