@@ -60,8 +60,7 @@
 🔹 Real-time identification  
 🔹 Cloud deployed  
 
-🔗 https://github.com/pramod190/FINDING_MISSING_PERSON_USI
-
+🔗 https://github.com/pramod190/FINDING_MISSING_PERSON_USING_AI
 ---
 
 ## 💼 Experience
