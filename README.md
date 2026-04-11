@@ -73,7 +73,7 @@
 🔹 ML-based product recommendation system
 🔹 Secure payments integration + scalable system design
 
-🔗 https://github.com/pramod190/AI-Ecommerce-Microservices
+🔗 https://github.com/pramod190/AI-Powered-E-commerce-Platform-Microservices
 
 ---
 
