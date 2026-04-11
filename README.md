@@ -18,7 +18,7 @@
 
 - 🔭 Working on **AI + Full Stack Projects**
 - 🌱 Learning **System Design, Advanced DSA & Cloud**
-- 🧠 Solved **250+ DSA problems**
+- 🧠 Solved **300+ DSA problems**
 - ⚡ Strong in **Backend Engineering & Optimization**
 
 ---
@@ -61,6 +61,19 @@
 🔹 Cloud deployed  
 
 🔗 https://github.com/pramod190/FINDING_MISSING_PERSON_USING_AI
+
+---
+
+🛒 AI-Powered E-Commerce Platform (Microservices)
+
+🚀 Scalable Distributed System
+
+🔹 Microservices architecture with independent services (auth, product, order)
+🔹 Reduced latency using Redis caching & optimized APIs
+🔹 ML-based product recommendation system
+🔹 Secure payments integration + scalable system design
+
+🔗 https://github.com/pramod190/AI-Ecommerce-Microservices
 
 ---
 
