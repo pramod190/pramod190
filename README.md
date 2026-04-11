@@ -68,7 +68,7 @@
 
 🚀 Scalable Distributed System
 
-🔹 Microservices architecture with independent services (auth, product, order)
+🔹 Microservices architecture with independent services (auth, product, order)            
 🔹 Reduced latency using Redis caching & optimized APIs  
 🔹 ML-based product recommendation system  
 🔹 Secure payments integration + scalable system design
