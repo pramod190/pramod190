@@ -64,7 +64,7 @@
 
 ---
 
-🛒 AI-Powered E-Commerce Platform (Microservices)
+### 🛒 AI-Powered E-Commerce Platform (Microservices)
 
 🚀 Scalable Distributed System             
 🔹 Microservices architecture with independent services (auth, product, order)            
