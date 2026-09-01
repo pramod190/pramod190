@@ -143,7 +143,7 @@
   <a href="https://leetcode.com/u/pramod1902/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="48" width="48" />
   </a>
-  <a href="https://pramod1902.github.io/repo/">
+  <a href="[https://pramod1902.github.io/repo/](https://portfolio-six-tau-1n16kde0iz.vercel.app/)">
     <img src="https://img.icons8.com/fluency/48/domain.png" />
   </a>
 </p>
