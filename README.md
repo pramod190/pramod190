@@ -1,23 +1,18 @@
 
-<!-- ╔══════════════════════════════════════════════════════════════╗ -->
-<!--                    PRAMOD190 • GITHUB PROFILE                 -->
-<!-- ╚══════════════════════════════════════════════════════════════╝ -->
-
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:020617,35:164E63,70:4C1D95,100:020617&text=PRAMOD%20KUMAR&fontSize=48&fontColor=E0F2FE&fontAlignY=38&desc=ASPIRING%20SOFTWARE%20DEVELOPMENT%20ENGINEER&descSize=15&descAlignY=60&animation=fadeIn" alt="Profile header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:020617,35:164E63,70:6D28D9,100:020617&text=PRAMOD%20KUMAR&fontSize=48&fontColor=E0F2FE&fontAlignY=38&desc=ASPIRING%20SOFTWARE%20DEVELOPMENT%20ENGINEER&descSize=15&descAlignY=60&animation=fadeIn" width="100%" alt="Animated profile header"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=2600&pause=750&color=22D3EE&center=true&vCenter=true&width=700&height=40&lines=Full-Stack+Developer+in+Progress;Building+AI-Powered+Applications;Backend+%26+Microservices+Enthusiast;320%2B+LeetCode+Problems+Solved;Learning.+Building.+Improving." alt="Animated introduction"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=2500&pause=700&color=22D3EE&center=true&vCenter=true&width=700&height=40&lines=Full-Stack+Development;AI+%26+Machine+Learning;Backend+%26+Microservices;320%2B+LeetCode+Problems;Build.+Learn.+Optimize." alt="Animated developer introduction"/>
 
 <p>
-  <a href="https://github.com/pramod190"><img src="https://img.shields.io/badge/GitHub-pramod190-111827?style=for-the-badge&logo=github&logoColor=22D3EE" alt="GitHub"/></a>
-  <a href="https://www.linkedin.com/in/anem-pramod-kumar-352082290/"><img src="https://img.shields.io/badge/LinkedIn-Connect-111827?style=for-the-badge&logo=linkedin&logoColor=38BDF8" alt="LinkedIn"/></a>
-  <a href="https://portfolio-six-tau-1n16kde0iz.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Explore-111827?style=for-the-badge&logo=vercel&logoColor=A78BFA" alt="Portfolio"/></a>
-  <a href="mailto:pramodanem.pa2004@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-111827?style=for-the-badge&logo=gmail&logoColor=F87171" alt="Email"/></a>
+<a href="https://github.com/pramod190"><img src="https://img.shields.io/badge/GitHub-pramod190-111827?style=for-the-badge&logo=github&logoColor=22D3EE"/></a>
+<a href="https://www.linkedin.com/in/anem-pramod-kumar-352082290/"><img src="https://img.shields.io/badge/LinkedIn-Connect-111827?style=for-the-badge&logo=linkedin&logoColor=38BDF8"/></a>
+<a href="https://portfolio-six-tau-1n16kde0iz.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Explore-111827?style=for-the-badge&logo=vercel&logoColor=A78BFA"/></a>
+<a href="mailto:pramodanem.pa2004@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-111827?style=for-the-badge&logo=gmail&logoColor=F87171"/></a>
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=pramod190&style=flat-square&color=0891B2&label=PROFILE+VIEWS" alt="Profile views"/>
-<img src="https://img.shields.io/github/followers/pramod190?style=flat-square&label=Followers&color=7C3AED" alt="Followers"/>
 
 </div>
 
@@ -25,85 +20,60 @@
 
 <table>
 <tr>
-<td width="60%" valign="top">
+<td align="center" width="25%">
 
-## 👨‍💻 `whoami`
+<img src="https://img.shields.io/badge/320%2B-22D3EE?style=for-the-badge&labelColor=0B1220"/>
 
-Hey! I'm **Pramod Kumar**, a Computer Science undergraduate at **SR University, Warangal**.
-
-I enjoy building full-stack applications, designing backend services, experimenting with AI integrations, and solving algorithmic problems.
-
-- 🎓 B.Tech Computer Science · 2027
-- 📍 Warangal, Telangana, India
-- 🧩 320+ LeetCode problems solved
-- ⚙️ Interested in backend engineering and distributed systems
-- 🤖 Exploring AI-powered applications
-- 🌱 Learning advanced DSA, system design, and cloud technologies
+**LeetCode Problems**
 
 </td>
-<td width="40%" valign="top">
+<td align="center" width="25%">
 
-## ⚡ `current_focus`
+<img src="https://img.shields.io/badge/8-7C3AED?style=for-the-badge&labelColor=0B1220"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=14&duration=2200&pause=600&color=A78BFA&vCenter=true&width=300&height=115&lines=%3E+Build+reliable+APIs;%3E+Explore+AI+integrations;%3E+Practice+DSA;%3E+Learn+system+design;%3E+Write+better+code" alt="Animated focus"/>
+**E-Commerce Services**
 
-### Development mindset
+</td>
+<td align="center" width="25%">
 
-`DESIGN` → `BUILD` → `TEST` → `IMPROVE`
+<img src="https://img.shields.io/badge/2027-0891B2?style=for-the-badge&labelColor=0B1220"/>
+
+**Graduation**
+
+</td>
+<td align="center" width="25%">
+
+<img src="https://img.shields.io/badge/AI%20%2B%20FULL%20STACK-10B981?style=for-the-badge&labelColor=0B1220"/>
+
+**Focus Areas**
 
 </td>
 </tr>
 </table>
 
-## 🛠️ `tech_stack` — My toolkit
+## `01 / ABOUT`
 
 <table>
 <tr>
-<td align="center" width="33%">
+<td width="65%" valign="top">
 
-**Languages**
+Hey! I'm **Pramod Kumar**, a Computer Science undergraduate at SR University, Warangal.
 
-<img src="https://skillicons.dev/icons?i=java,python,js,ts&theme=dark&perline=4" alt="Programming languages"/>
+I enjoy building real-world applications, designing backend systems, integrating AI capabilities, and solving challenging programming problems.
 
-</td>
-<td align="center" width="33%">
-
-**Frontend**
-
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap&theme=dark&perline=5" alt="Frontend stack"/>
-
-</td>
-<td align="center" width="33%">
-
-**Backend**
-
-<img src="https://skillicons.dev/icons?i=spring,nodejs,express,fastapi&theme=dark&perline=4" alt="Backend stack"/>
+- 🎓 B.Tech Computer Science · 2027
+- 📍 Warangal, Telangana, India
+- 🧠 320+ LeetCode problems solved
+- ⚙️ Backend engineering and distributed systems
+- 🤖 AI-powered full-stack applications
+- 🌱 Advanced DSA, system design, cloud and DevOps
 
 </td>
-</tr>
-<tr>
-<td align="center">
+<td width="35%" valign="top">
 
-**Databases**
+### `CURRENT STATUS`
 
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis&theme=dark&perline=4" alt="Databases"/>
-
-</td>
-<td align="center">
-
-**Cloud & DevOps**
-
-<img src="https://skillicons.dev/icons?i=aws,docker,git,github&theme=dark&perline=4" alt="Cloud and DevOps"/>
-
-</td>
-<td align="center">
-
-**Concepts**
-
-<img src="https://img.shields.io/badge/DSA-0891B2?style=flat-square" alt="DSA"/>
-<img src="https://img.shields.io/badge/REST_APIs-7C3AED?style=flat-square" alt="REST APIs"/>
-<img src="https://img.shields.io/badge/Microservices-0F766E?style=flat-square" alt="Microservices"/>
-<img src="https://img.shields.io/badge/System_Design-334155?style=flat-square" alt="System Design"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=13&duration=2000&pause=600&color=A78BFA&width=260&height=110&lines=%3E+Building+projects;%3E+Practicing+DSA;%3E+Exploring+AI;%3E+Learning+system+design;%3E+Improving+every+day" alt="Animated current status"/>
 
 </td>
 </tr>
@@ -111,106 +81,168 @@ I enjoy building full-stack applications, designing backend services, experiment
 
 ---
 
-## 🚀 `featured_projects` — Things I've built
+## `02 / TECH STACK`
+
+<details open>
+<summary><b>Programming Languages</b></summary>
+<br/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,python,js,ts&theme=dark&perline=8" alt="Programming languages"/>
+</p>
+</details>
+
+<details open>
+<summary><b>Frontend Development</b></summary>
+<br/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap&theme=dark&perline=8" alt="Frontend technologies"/>
+</p>
+</details>
+
+<details open>
+<summary><b>Backend & Databases</b></summary>
+<br/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=spring,nodejs,express,fastapi,mongodb,mysql,postgres,redis&theme=dark&perline=8" alt="Backend and database technologies"/>
+</p>
+</details>
+
+<details>
+<summary><b>Cloud, DevOps & Tools</b></summary>
+<br/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github,vercel,postman&theme=dark&perline=8" alt="Cloud and developer tools"/>
+</p>
+</details>
+
+---
+
+## `03 / FEATURED PROJECTS`
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🛒 AI-Powered E-Commerce
+### 🛒 AI E-Commerce Microservices
 
 <img src="https://img.shields.io/badge/DISTRIBUTED_SYSTEM-7C3AED?style=flat-square" alt="Distributed system"/>
 
-An e-commerce platform designed around **eight independent services**.
+A scalable e-commerce application built with eight independent services.
 
-- RabbitMQ asynchronous communication
-- Redis-backed cart sessions
+- RabbitMQ asynchronous messaging
+- Redis cart caching
 - JWT authentication and Stripe payments
 - AI-based product recommendations
 - Search optimization across 100,000+ products
 
-**Stack:** Java · Node.js · TypeScript · React · MongoDB · RabbitMQ
+**Stack**
 
-<a href="https://github.com/pramod190/AI-Powered-E-commerce-Platform-Microservices"><img src="https://img.shields.io/badge/VIEW_SOURCE-111827?style=for-the-badge&logo=github&logoColor=22D3EE" alt="View source code"/></a>
+`Java` `Node.js` `TypeScript` `React` `MongoDB`
+
+<p>
+<a href="https://github.com/pramod190/AI-Powered-E-commerce-Platform-Microservices"><img src="https://img.shields.io/badge/SOURCE_CODE-111827?style=for-the-badge&logo=github&logoColor=22D3EE" alt="Source code"/></a>
+<a href="YOUR_ECOMMERCE_LIVE_DEMO_URL"><img src="https://img.shields.io/badge/LIVE_DEMO-0F766E?style=for-the-badge&logo=vercel&logoColor=white" alt="Live demo"/></a>
+</p>
 
 </td>
 <td width="50%" valign="top">
 
 ### 💊 Medicine Availability Finder
 
-<img src="https://img.shields.io/badge/FULL_STACK-0891B2?style=flat-square" alt="Full stack"/>
+<img src="https://img.shields.io/badge/REAL_TIME_FULL_STACK-0891B2?style=flat-square" alt="Real-time full stack"/>
 
-A platform for finding nearby pharmacies and checking medicine availability.
+A pharmacy discovery platform with real-time inventory and AI-assisted features.
 
-- Real-time inventory updates
-- Pharmacy discovery with maps
-- Low-stock alerts and notifications
+- Nearby pharmacy discovery
+- Inventory updates and low-stock alerts
 - Prescription image processing
-- AI medicine assistance
+- AI medicine assistant
+- Location-based sorting
 
-**Stack:** React · Node.js · MongoDB · WebSockets · Google Maps API
+**Stack**
 
-<a href="https://github.com/pramod190/Medicine-Availability-Pharmacy-Finder"><img src="https://img.shields.io/badge/VIEW_SOURCE-111827?style=for-the-badge&logo=github&logoColor=22D3EE" alt="View source code"/></a>
+`React` `Node.js` `MongoDB` `WebSockets`
+
+<p>
+<a href="https://github.com/pramod190/Medicine-Availability-Pharmacy-Finder"><img src="https://img.shields.io/badge/SOURCE_CODE-111827?style=for-the-badge&logo=github&logoColor=22D3EE" alt="Source code"/></a>
+<a href="YOUR_MEDICINE_FINDER_LIVE_DEMO_URL"><img src="https://img.shields.io/badge/LIVE_DEMO-0F766E?style=for-the-badge&logo=vercel&logoColor=white" alt="Live demo"/></a>
+</p>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 📚 Fullstack AI Learning Assistant
+### 📄 AI Resume Analyzer
 
-<img src="https://img.shields.io/badge/GENERATIVE_AI-7C3AED?style=flat-square" alt="Generative AI"/>
+<img src="https://img.shields.io/badge/NLP_&_RESUME_ANALYSIS-7C3AED?style=flat-square" alt="NLP and resume analysis"/>
 
-A learning application that uses uploaded PDFs as the basis for study sessions.
+An application for resume parsing, scoring, and improvement suggestions.
 
-- PDF question answering with Gemini
-- Automatic flashcards and quizzes
-- REST API development
-- MongoDB session and history storage
+- Resume data extraction
+- Skills and keyword analysis
+- Resume scoring and recommendations
+- Analytics and reporting
 
-**Stack:** React · Node.js · MongoDB · Gemini API
+**Stack**
+
+`Python` `Streamlit` `NLP` `MySQL`
+
+<p>
+<a href="https://github.com/pramod190/AI_RESUME_ANALYZER"><img src="https://img.shields.io/badge/SOURCE_CODE-111827?style=for-the-badge&logo=github&logoColor=22D3EE" alt="Source code"/></a>
+<a href="YOUR_RESUME_ANALYZER_LIVE_DEMO_URL"><img src="https://img.shields.io/badge/LIVE_DEMO-0F766E?style=for-the-badge&logo=streamlit&logoColor=white" alt="Live demo"/></a>
+</p>
 
 </td>
 <td width="50%" valign="top">
 
-### 📄 AI Resume Analyzer
+### 🧠 AI Missing Person Identification
 
-<img src="https://img.shields.io/badge/NLP_&_TRANSFORMERS-0891B2?style=flat-square" alt="NLP"/>
+<img src="https://img.shields.io/badge/COMPUTER_VISION-0891B2?style=flat-square" alt="Computer vision"/>
 
-A resume analysis system focused on job-description alignment.
+A facial-matching system with case management and role-based access.
 
-- BERT-based text analysis
-- TF-IDF similarity matching
-- ATS-oriented keyword evaluation
+- Facial landmark extraction
+- Face matching and similarity scoring
+- Case management
+- Role-based authentication and alerts
 
-**Stack:** Python · NLP · BERT · TF-IDF
+**Stack**
 
-<a href="https://github.com/pramod190/AI_RESUME_ANALYZER"><img src="https://img.shields.io/badge/VIEW_SOURCE-111827?style=for-the-badge&logo=github&logoColor=22D3EE" alt="View source code"/></a>
+`Python` `OpenCV` `MediaPipe` `Streamlit`
+
+<p>
+<a href="https://github.com/pramod190/FINDING_MISSING_PERSON_USING_AI"><img src="https://img.shields.io/badge/SOURCE_CODE-111827?style=for-the-badge&logo=github&logoColor=22D3EE" alt="Source code"/></a>
+<a href="YOUR_MISSING_PERSON_LIVE_DEMO_URL"><img src="https://img.shields.io/badge/LIVE_DEMO-0F766E?style=for-the-badge&logo=streamlit&logoColor=white" alt="Live demo"/></a>
+</p>
 
 </td>
 </tr>
 <tr>
 <td colspan="2" valign="top">
 
-### 🧠 AI Missing Person Identification System
+### 📚 Fullstack AI Learning Assistant
 
-Computer vision project exploring facial recognition for missing-person identification.
+A PDF-based learning application that supports document-grounded questions, flashcards, and quiz generation.
 
-`Python` `OpenCV` `CNN` `FaceNet`
+**Stack:** React · Node.js · MongoDB · Google Gemini API
 
-<a href="https://github.com/pramod190/FINDING_MISSING_PERSON_USING_AI"><img src="https://img.shields.io/badge/VIEW_SOURCE-111827?style=for-the-badge&logo=github&logoColor=A78BFA" alt="View source code"/></a>
+<p>
+<a href="YOUR_AI_LEARNING_ASSISTANT_REPOSITORY_URL"><img src="https://img.shields.io/badge/SOURCE_CODE-111827?style=for-the-badge&logo=github&logoColor=22D3EE" alt="Source code"/></a>
+<a href="YOUR_AI_LEARNING_ASSISTANT_LIVE_DEMO_URL"><img src="https://img.shields.io/badge/LIVE_DEMO-0F766E?style=for-the-badge&logo=vercel&logoColor=white" alt="Live demo"/></a>
+</p>
 
 </td>
 </tr>
 </table>
 
 <p align="center">
-<a href="https://github.com/pramod190?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_ALL_REPOSITORIES-22D3EE?style=for-the-badge&logo=github&logoColor=0D1117" alt="All repositories"/></a>
+<a href="https://github.com/pramod190?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_ALL_PROJECTS-22D3EE?style=for-the-badge&logo=github&logoColor=0D1117" alt="Explore projects"/></a>
 </p>
 
 ---
 
-## 💼 `experience` — Where I've contributed
+## `04 / EXPERIENCE`
 
 <table>
 <tr>
@@ -221,8 +253,8 @@ Computer vision project exploring facial recognition for missing-person identifi
 **Web Development Intern · Nov 2024**
 
 - Built three responsive web applications.
-- Worked on UI/UX improvements and frontend performance.
-- Used Git, browser debugging tools, and code reviews.
+- Improved user interfaces and frontend performance.
+- Worked with Git, browser debugging, and code reviews.
 
 </td>
 <td width="50%" valign="top">
@@ -231,9 +263,9 @@ Computer vision project exploring facial recognition for missing-person identifi
 
 **Data Analyst Intern · Jul 2024**
 
-- Worked with Pandas and NumPy for data analysis.
+- Worked with Pandas and NumPy.
 - Developed Power BI dashboards.
-- Explored reporting and data-driven insights.
+- Explored data analysis and reporting workflows.
 
 </td>
 </tr>
@@ -241,50 +273,45 @@ Computer vision project exploring facial recognition for missing-person identifi
 
 ---
 
-## 🧠 `problem_solving` — DSA & LeetCode
+## `05 / LEETCODE`
 
 <div align="center">
 
 <a href="https://leetcode.com/u/pramod1902/">
-<img src="https://leetcard.jacoblin.cool/pramod1902?theme=dark&font=Fira%20Code&ext=heatmap" width="90%" alt="LeetCode profile statistics"/>
+<img src="https://leetcard.jacoblin.cool/pramod1902?theme=dark&font=Fira%20Code&ext=heatmap" width="90%" alt="LeetCode profile and activity"/>
 </a>
 
 <br/>
 
-<img src="https://img.shields.io/badge/320%2B-PROBLEMS_SOLVED-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="320 plus problems solved"/>
-
-<br/>
-
-<sub>Practicing algorithms, edge cases, complexity analysis, and problem-solving patterns.</sub>
+<a href="https://leetcode.com/u/pramod1902/">
+<img src="https://img.shields.io/badge/320%2B_PROBLEMS-SOLVED-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode problems solved"/>
+</a>
 
 </div>
 
 ---
 
-## 📊 `github_analytics` — My activity
+## `06 / GITHUB ANALYTICS`
 
 <div align="center">
 
-<a href="https://github.com/pramod190">
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=pramod190&show_icons=true&hide_border=true&hide_rank=true&bg_color=0D1117&title_color=22D3EE&icon_color=A78BFA&text_color=C9D1D9" alt="GitHub stats"/>
-</a>
-<a href="https://github.com/pramod190">
+
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pramod190&layout=compact&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=C9D1D9" alt="Top languages"/>
-</a>
 
 <br/><br/>
 
-<img width="75%" src="https://streak-stats.demolab.com?user=pramod190&theme=dark&hide_border=true&background=0D1117&ring=22D3EE&fire=A78BFA&currStreakLabel=22D3EE" alt="GitHub contribution streak"/>
+<img width="75%" src="https://streak-stats.demolab.com?user=pramod190&theme=dark&hide_border=true&background=0D1117&ring=22D3EE&fire=A78BFA&currStreakLabel=22D3EE" alt="GitHub streak"/>
 
 <br/><br/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=pramod190&bg_color=0D1117&color=C9D1D9&line=22D3EE&point=A78BFA&area=true&hide_border=true" alt="GitHub contribution graph"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=pramod190&bg_color=0D1117&color=C9D1D9&line=22D3EE&point=A78BFA&area=true&hide_border=true" alt="Contribution activity"/>
 
 </div>
 
 ---
 
-## 🤝 `connect` — Find me online
+## `07 / CONNECT`
 
 <div align="center">
 
@@ -292,12 +319,11 @@ Computer vision project exploring facial recognition for missing-person identifi
 <a href="https://www.linkedin.com/in/anem-pramod-kumar-352082290/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://portfolio-six-tau-1n16kde0iz.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 <a href="mailto:pramodanem.pa2004@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://leetcode.com/u/pramod1902/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=17&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=550&lines=Thanks+for+visiting+my+profile!;Let's+build+something+meaningful.;Code.+Learn.+Build.+Repeat." alt="Animated sign-off"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=2800&pause=800&color=22D3EE&center=true&vCenter=true&width=520&lines=Thanks+for+visiting+my+profile!;Let's+build+something+meaningful.;Code.+Learn.+Build.+Repeat." alt="Animated sign-off"/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0891B2,100:7C3AED&height=100&section=footer" alt="Footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0891B2,100:7C3AED&height=100&section=footer" width="100%" alt="Footer"/>
 
 </div>
